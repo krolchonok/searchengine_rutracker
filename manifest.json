@@ -1,0 +1,20 @@
+{
+	"manifest_version": 2,
+	"name": "searchengine_rutracker",
+	"version": "0.0.1",
+	"description": "Search Rutracker",
+
+	"icons": {
+		"96": "icons/icon32.png"
+	},
+
+	"chrome_settings_overrides": {
+	  "search_provider": {
+		"name": "Rutracker",
+		"search_url": "https://rutracker.org/forum/tracker.php?nm={searchTerms}",
+		"keyword": "rtr",
+		"favicon_url": "https://rutracker.org/favicon.ico"
+	  }
+	}
+
+}
