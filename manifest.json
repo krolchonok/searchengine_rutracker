@@ -9,12 +9,11 @@
 	},
 
 	"chrome_settings_overrides": {
-	  "search_provider": {
-		"name": "Rutracker",
-		"search_url": "https://rutracker.org/forum/tracker.php?nm={searchTerms}",
-		"keyword": "rtr",
-		"favicon_url": "https://rutracker.org/favicon.ico"
-	  }
+	  	"search_provider": {
+			"name": "Rutracker",
+			"search_url": "https://rutracker.org/forum/tracker.php?nm={searchTerms}",
+			"keyword": "rtr",
+			"favicon_url": "https://rutracker.org/favicon.ico"
+	  	}
 	}
-
 }
