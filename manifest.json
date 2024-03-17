@@ -5,7 +5,7 @@
 	"description": "Search Rutracker",
 
 	"icons": {
-		"96": "icons/icon32.png"
+		"512": "icons/icon32.png"
 	},
 
 	"chrome_settings_overrides": {
